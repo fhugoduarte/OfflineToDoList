@@ -94,7 +94,7 @@ yarn ios
 * [x] Create new To-Do
 * [x] Delete existing To-Do
 * [x] Check/Uncheck a To-Do
-* [ ] Filter To-Dos by done status
+* [x] Filter To-Dos by done status
 * [ ] Synchronize with a fake api
 
 
