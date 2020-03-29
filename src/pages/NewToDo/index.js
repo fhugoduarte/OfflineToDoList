@@ -45,7 +45,7 @@ function NewToDo() {
         enabled={Platform.OS === 'ios'}
         style={styles.container}>
         <Text style={styles.grayText}>
-          Register a new <Text style={styles.greenText}>To Do</Text> and
+          Register a new <Text style={styles.greenText}>To-Do</Text> and
           organize your tasks
         </Text>
 
