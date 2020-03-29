@@ -6,6 +6,16 @@ export default StyleSheet.create({
     backgroundColor: '#393e46',
     borderRadius: 10,
     flexDirection: 'row',
+
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 6,
+    },
+    shadowOpacity: 0.37,
+    shadowRadius: 7.49,
+
+    elevation: 12,
   },
 
   checkButton: {

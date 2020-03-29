@@ -5,21 +5,39 @@ export default StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     backgroundColor: '#212121',
-  },
-
-  toDoList: {
-    width: '100%',
-  },
-
-  toDoListContainer: {
-    width: '100%',
     padding: 20,
-    paddingBottom: 120,
   },
 
-  itemSeparator: {
-    width: 1,
-    height: 20,
+  input: {
+    backgroundColor: '#00000030',
+    width: '100%',
+    borderRadius: 10,
+    padding: 20,
+    color: '#fff',
+    fontSize: 20,
+    borderWidth: 1,
+    borderColor: '#77777750',
+  },
+
+  filterContainer: {
+    flexDirection: 'row',
+    width: '100%',
+    justifyContent: 'center',
+    paddingVertical: 10,
+  },
+
+  filterButton: {
+    borderWidth: 1,
+    borderColor: '#0d7377',
+    paddingVertical: 5,
+    paddingHorizontal: 10,
+    borderRadius: 5,
+    marginRight: 10,
+  },
+
+  filterText: {
+    color: '#fff',
+    fontWeight: 'bold',
   },
 
   newToDoButton: {
