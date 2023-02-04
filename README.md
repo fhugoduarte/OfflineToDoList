@@ -118,5 +118,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-[Hugo Duarte](https://fhugoduarte.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/hugo-duarte-3392bb153/) - [GitHub](https://github.com/fhugoduarte)
+[Hugo Duarte](https://fhugoduarte.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/fhugoduarte) - [GitHub](https://github.com/fhugoduarte)
 
